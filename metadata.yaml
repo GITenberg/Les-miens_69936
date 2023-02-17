@@ -1,0 +1,35 @@
+_repo: Les-miens_69936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - De Voisins, Gilbert
+    - Voisins, Gilbert de
+    - Voisins, Auguste Gilbert de
+    - Gilbert de Voisins, Auguste, comte
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2023-02-02'
+identifiers:
+  gutenberg: '69936'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=DBhLAQAAIAAJ
+pgterms:marc905: 20220113121302gilbertdev
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aFrance :$bBernard Grasset, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les miens
+url: http://www.gutenberg.org/ebooks/69936
